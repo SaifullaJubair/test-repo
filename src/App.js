@@ -3,11 +3,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-       <h2>Mehadi</h2>
-
+      <h2>Mehadi</h2>
       <h1>Saifulla</h1>
-      <p>dsadsadasdas</p>
-
+      <h2>Saqib</h2>
+      <h2 className='saqib'>Saqib 34</h2>
     </div>
   );
 }
